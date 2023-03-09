@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+     <book>
+        <title>C++ By Example</title>
+        <author>John</author>
+        <price>500</price>
+        <ISBN>PR-123-A1</ISBN>
+        <category>Programming</category>
+    </book>
+
+    <book>
+        <title>Java Book</title>
+        <author>Jane davis</author>
+        <price>450</price>
+        <ISBN>PR-456-A2</ISBN>
+        <category>Programming</category>
+    </book>
+
+    <book>
+        <title>Database Management Systems</title>
+        <author>Mark</author>
+        <price>300</price>
+        <ISBN>DB-123-ASD</ISBN>
+        <category>Database</category>
+    </book>
+
+    <book>
+        <title>Harry Potter and the Order of the Phoenix</title>
+        <author>J.K. Rowling</author>
+        <price>650</price>
+        <ISBN>FC-123-456</ISBN>
+        <category>Novel</category>
+    </book>
+
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <price>450</price>
+        <ISBN>FC-456-678</ISBN>
+        <category>Novel</category>
+    </book>
+
+    <book>
+        <title>Learning Web Development</title>
+        <author>Michael</author>
+        <price>300</price>
+        <ISBN>ABC-123-456</ISBN>
+        <category>Web Development</category>
+    </book>
+
+    <book>
+        <title>Professional PHP &amp; MYSQL</title>
+        <author>Programmer Blog</author>
+        <price>340</price>
+        <ISBN>PR-123-456</ISBN>
+        <category>Web Development</category>
+    </book>
+    
+</books>
