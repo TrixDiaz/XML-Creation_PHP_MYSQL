@@ -11,3 +11,5 @@ Following tasks are performed in this article:
  3. Fetch data from the database and generate XML file.
 
 Fo a detailed tutorial, please visit:  http://programmerblog.net/how-to-generate-xml-files-using-php/
+
+Enchance add button for Insert XML and Generate XML File 
